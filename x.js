@@ -1,1 +1,1 @@
-alert(document.domain)
+prompt(document.domain)
